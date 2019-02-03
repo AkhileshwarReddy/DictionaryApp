@@ -12,6 +12,9 @@ Tkinter library comes pre-installed with the python, where as the other two libr
 <code>pip install requests</code><br>
 <code>pip install bs4</code></b>
 
+## Result
+<img src="./dictUI.JPG">
+
 ### Note
 Previously, The data is scraped the Dictionary.com website.
 But in the 2.0, The data is scraped from the en.oxforddictionaries.com website
